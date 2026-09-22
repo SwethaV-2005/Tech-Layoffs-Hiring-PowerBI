@@ -73,6 +73,6 @@ The data was cleaned and transformed to prepare it for analysis and visualizatio
 
 ## 📁 Project Files
 
-- [Tech_Layoffs_Hiring_Trends_.pbix](./Tech_Layoffs_Hiring_Trends.pbix) - Power BI dashboard file
+- [Tech_Layoffs_Hiring_Trends_.pbix](./Tech_Layoffs_Hiring_Trends_.pbix) - Power BI dashboard file
 - [Tech_Layoffs_Hiring_Trends_Dashboard.png](./Tech_Layoffs_Hiring_Trends_Dashboard.png) - Dashboard preview
 
